@@ -1,0 +1,22 @@
+{
+  "name": "@ktxtr/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint configuration curated by kontextR",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "config",
+    "configuration"
+  ],
+  "author": "IgnusG (aka JJ)",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 5.3",
+    "eslint-plugin-compat": ">= 2.5",
+    "eslint-plugin-a11y": ">= 6.1",
+    "eslint-plugin-import": ">= 2.13",
+    "eslint-plugin-inferno": ">= 7.8",
+    "eslint-plugin-jest": ">= 21.18",
+    "eslint-plugin-test-names": ">= 2.1"
+  }
+}
