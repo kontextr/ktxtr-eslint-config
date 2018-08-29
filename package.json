@@ -1,6 +1,6 @@
 {
   "name": "@ktxtr/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint configuration curated by kontextR",
   "main": "index.js",
   "keywords": [
@@ -9,6 +9,14 @@
     "configuration"
   ],
   "author": "IgnusG (aka JJ)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontextr/ktxtr-eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kontextr/ktxtr-eslint-config/issues"
+  },
+  "homepage": "https://github.com/kontextr/ktxtr-eslint-config#readme",
   "license": "ISC",
   "peerDependencies": {
     "eslint": ">= 5.3",
