@@ -1,8 +1,8 @@
-## kontextR eslint config
+## [kontextR](https://www.kontextr.com/en/) eslint config
 
 _Created by **yours truly**_ :heart:
 
-This repository holds kontextR's global eslint configuration files.
+This repository holds [kontextR's](https://www.kontextr.com/en/) global eslint configuration files.
 It is published under the [ISC license](https://opensource.org/licenses/ISC).
 
 ### How to use it
